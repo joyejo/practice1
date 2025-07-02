@@ -18,6 +18,7 @@
 #print(add(2,5))
 num1=int(input("enter num1 "))
 num2=int(input("enter num2 "))
+
 def kabsh(x,y):
     print(x-y)
     print(x*y)
